@@ -14,7 +14,7 @@ I enjoy creating clean user interfaces, reliable APIs, and real-world systems th
 * Work with databases such as PostgreSQL and MongoDB
 * Document and test APIs using Swagger/OpenAPI
 * Use Git and GitHub for version control and collaboration
-* Support deployment workflows using Docker and DigitalOcean
+* Support deployment workflows using Docker and DigitalOcean, Render, Railway, Vercel.
 
 ---
 
