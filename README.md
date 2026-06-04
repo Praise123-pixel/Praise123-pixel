@@ -37,7 +37,7 @@ I enjoy creating clean user interfaces, reliable APIs, and real-world systems th
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### Unified Sports Corporate Platform
 
@@ -48,6 +48,17 @@ The platform supports corporate fitness challenges, GPS activity tracking, team 
 **Technologies used:** React Native, React, NestJS, PostgreSQL, Swagger/OpenAPI, Git, GitHub, Docker, DigitalOcean
 
 ---
+
+### Mayondo Wood & Furniture Management System
+
+A web-based business management system built for Mayondo Wood & Furniture Ltd to support daily business operations and improve record keeping.
+
+The system supports inventory tracking, sales records, customer records, supplier records, delivery charge calculations, stock updates, and business reporting.
+
+**Technologies used:** JavaScript, React, Node.js, Git, GitHub, Vercel
+
+🔗 **Live Project:** https://project-jo98.vercel.app/
+
 
 ## 🌱 Currently Learning & Improving
 
