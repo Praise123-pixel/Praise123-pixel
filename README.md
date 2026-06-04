@@ -47,8 +47,6 @@ The platform supports corporate fitness challenges, GPS activity tracking, team 
 
 **Technologies used:** React Native, React, NestJS, PostgreSQL, Swagger/OpenAPI, Git, GitHub, Docker, DigitalOcean
 
-🔗 **Live Project:** https://beyondsports.fitness/
-
 ---
 
 ## 🌱 Currently Learning & Improving
